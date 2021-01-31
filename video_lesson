@@ -1,0 +1,29 @@
+[
+  {
+    "videoLession": [
+      {
+        "name": "Apa yang terjadi",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"
+      },
+      {
+        "name": "Testing",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo2.mp4"      },
+      {
+        "name": "Apa yang terjadi",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
+      {
+        "name": "Testing",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },{
+        "name": "Design basic for beginner",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"
+      },
+      {
+        "name": "Testing",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo2.mp4"      },
+      {
+        "name": "Apa yang terjadi",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      },
+      {
+        "name": "Testing",
+        "videoUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/demovideo.mp4"      }
+    ]}]
