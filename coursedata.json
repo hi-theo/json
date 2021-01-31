@@ -1,0 +1,48 @@
+[
+  {
+    "popularCourses": [
+      {
+        "name": "Design basic for beginner",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course1.png",
+        "totalLesson": "25 lessons"
+      },
+      {
+        "name": "Social Marketing and SEO",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course2.png",
+        "totalLesson": "15 lessons"
+      },
+      {
+        "name": "Design basic for beginner",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course3.png",
+        "totalLesson": "10 lessons"
+      },
+      {
+        "name": "Social Marketing and SEO",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course4.png",
+        "totalLesson": "35 lessons"
+      }
+    ],
+    "courseForYou": [
+{
+        "name": "Social Marketing and SEO",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course4.png",
+        "totalLesson": "20 lessons"
+      } ,
+      {
+        "name": "Design basic for beginner",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course3.png",
+        "totalLesson": "9 lessons"
+      }    ,
+      {
+        "name": "Social Marketing and SEO",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course2.png",
+        "totalLesson": "5 lessons"
+      } ,
+{
+        "name": "Design basic for beginner",
+        "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course1.png",
+        "totalLesson": "17 lessons"}
+      
+    ]
+  }
+]
