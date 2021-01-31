@@ -2,7 +2,7 @@
   {
     "popularCourses": [
       {
-        "name": "Design basic for beginner",
+        "name": "Apa yang terjadi",
         "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course1.png",
         "totalLesson": "25 lessons"
       },
@@ -24,7 +24,7 @@
     ],
     "courseForYou": [
 {
-        "name": "Social Marketing and SEO",
+        "name": "Testing",
         "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/course_app2/course4.png",
         "totalLesson": "20 lessons"
       } ,
